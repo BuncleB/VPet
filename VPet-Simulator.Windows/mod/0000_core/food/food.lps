@@ -34,6 +34,8 @@ food:|name#小布丁:|type#Snack:|Exp#8:|Strength#10:|StrengthDrink#5:|StrengthF
 food:|name#雪饼:|type#Snack:|Exp#8:|Strength#10:|StrengthDrink#5:|StrengthFood#15:|Feeling#25:|price#5.5:|graph#eat:|desc#小时候的一口吃不下:|
 food:|name#散射雪糕:|type#Snack:|Exp#4:|Strength#10:|StrengthDrink#10:|StrengthFood#20:|Feeling#25:|price#6.5:|graph#eat:|desc#三倍的快乐:|
 food:|name#猪肉脯:|type#Snack:|Exp#12:|Strength#40:|StrengthFood#48:|Feeling#37:|price#13.5:|graph#eat:|desc#你感觉在吃牛皮。。:|
+food:|name#gamja:|type#Snack:|Exp#8:|Strength#15:|StrengthDrink#0:|StrengthFood#12:|Feeling#25:|price#0.0:|graph#eat:|desc#这是我们的宝贝~~:|
+food:|name#gamja_outline:|type#Snack:|Exp#8:|Strength#15:|StrengthDrink#0:|StrengthFood#12:|Feeling#25:|price#0.0:|graph#eat:|desc#这是我们的宝贝~~:|
 food:|name#臭豆腐:|type#Meal:|Exp#40:|Strength#100:|StrengthFood#55:|Feeling#12:|price#19.5:|graph#eat:|desc#闻起来臭，吃起来也臭，就是越吃越香。:|
 food:|name#东坡肘子:|type#Meal:|Exp#120:|Strength#100:|StrengthFood#85:|Health#1:|Feeling#75:|price#36.0:|graph#eat:|desc#小知识：东坡肘子其实并非苏东坡之功，而是其妻子王弗的妙作:|
 food:|name#番茄意面:|type#Meal:|Exp#80:|Strength#100:|StrengthFood#110:|Health#1:|Feeling#50:|price#35.0:|graph#eat:|desc#只要不是巧克力酱什么都好说。。:|
